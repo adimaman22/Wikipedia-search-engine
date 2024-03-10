@@ -30,6 +30,14 @@ Additional files:
 - Flask
 - NLTK
 - NumPy
+- pickle
+- re
+- ThreadPoolExecutor
 - Requests
 - Google Cloud Storage
 
+## Creators
+This project was created by:
+- Adi Maman
+- Omer Shem tov
+- Guy Dulberg
