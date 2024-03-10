@@ -7,6 +7,16 @@ This project aims to develop a search engine for Wikipedia using an inverted ind
 It includes building indexes for body text and titles, optimizing query execution with multithreading, and providing a frontend for user queries.
 This search engine stands out by integrating advanced data structures and algorithms to efficiently process and retrieve relevant Wikipedia articles.
 
+## Data Overview
+Our search engine is built on top of a robust dataset extracted from English Wikipedia. Here's a glimpse into the structure of the data we've worked with:
+- ID: Unique identifier for each document.
+- Title: The title of the Wikipedia article.
+- Text: Extracted body text from the article, which may include markup and references.
+- Anchor Text: Text from hyperlinks pointing to other Wikipedia articles.
+
+![Uploading תמונה של WhatsApp‏ 2024-03-10 בשעה 21.05.45_505c91ac.jpg…]()
+
+
 ## Key Features
 - Inverted Index Construction: Efficient retrieval mechanism using separate indexes for body text and titles.
 - Ranking with BM25: Incorporates BM25 for relevance scoring, enhancing result quality.
