@@ -1,4 +1,4 @@
-![תמונה של WhatsApp‏ 2024-03-10 בשעה 21 05 45_7313c5ff](https://github.com/adimaman22/Wikipedia-search-engine/assets/162898894/c93815cc-6635-4d08-9f8e-ae8ad58c1316)# Wikipedia Search Engine
+# Wikipedia Search Engine
 Final project of information retrieval course in data engineering BGU
 
 
@@ -15,7 +15,6 @@ Our search engine is built on top of a robust dataset extracted from English Wik
 - Anchor Text: Text from hyperlinks pointing to other Wikipedia articles.
 
 ![data overview](https://github.com/adimaman22/Wikipedia-search-engine/assets/162898894/084b237e-637c-447c-a662-fcba1136a47b)
-
 
 ## Key Features
 - Inverted Index Construction: Efficient retrieval mechanism using separate indexes for body text and titles.
