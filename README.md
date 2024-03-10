@@ -14,7 +14,7 @@ Our search engine is built on top of a robust dataset extracted from English Wik
 - Text: Extracted body text from the article, which may include markup and references.
 - Anchor Text: Text from hyperlinks pointing to other Wikipedia articles.
 
-![data overview](https://github.com/adimaman22/Wikipedia-search-engine/assets/162898894/e27b9483-1d04-4bcb-83ff-8c70c74f5368|width=150)
+![data overview](https://github.com/adimaman22/Wikipedia-search-engine/assets/162898894/e27b9483-1d04-4bcb-83ff-8c70c74f5368=250x250)
 
 ## Key Features
 - Inverted Index Construction: Efficient retrieval mechanism using separate indexes for body text and titles.
