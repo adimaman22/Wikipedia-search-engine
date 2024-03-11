@@ -36,6 +36,7 @@ Additional files:
 - run_frontend_in_gcp.sh: command-line instructions for deploying our search engine to GCP.
 - startup_script_gcp.sh: a shell script that sets up the Compute Engine instance.
 - bucket_files.txt: A text file that List all index files.
+- Information retrieval project report.pdf: Project report.
 
 ## Dependencies
 - Flask
